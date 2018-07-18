@@ -1,0 +1,8 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+	Ao iniciar um repositório você marca ou indica ao programa git que a partir daquele ponto um arquivos ou conjunto de arquivos e diretórios podem ser rastreados pelo git. Se não fizer isso o git não sabe que aquele é um repositório que você deseja usar os serviços de versionamento etc.
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+	A área de preparação contém os arquivos que serão comitados. Há area de trabalho conter os arquivos que serão comitados e os demais arquivos presentes no diretório. O Repositório conter todos os arquivos que foram comitados e estiveram em algum momento na área de preparação.
+
