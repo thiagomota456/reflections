@@ -1,0 +1,13 @@
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+	Assim eu poderia desenvolver ideias e projetos paralelos som comprometer o projeto principal e tendo maior organização.
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+	representam onde se situam e a ordem dos commits.
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+	Ambas as alteraçoes feitas nos 2 branchs são adicionadas ao branch que esta em checkout. Sendo assim possivel acessar todos os commits de todos os branchs mesclados. Não entendi direito a segund apergunta. Mas se acredito que se refira ao diagram feito for ana. POrque fica mais organizado e mais facil de vizualizar.
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+	Na mesclagem automatica ganhasse tempo e produtividade.
+	Na manual voce tem mais contole sobre como fazer a junção do código e maior capacidade de otimozação.
