@@ -3,14 +3,17 @@ Quais são algumas das situações em que branches seriam úteis para manter seu
 	Assim eu poderia desenvolver ideias e projetos paralelos som comprometer o projeto principal e tendo maior organização.
 
 Como os diagramas ajudam a visualizar a estrutura de branches?
+
 	representam onde se situam e a ordem dos commits.
 
 Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
-	Ambas as alteraçoes feitas nos 2 branchs são adicionadas ao branch que esta em checkout. Sendo assim possivel acessar todos os commits de todos os branchs mesclados. Não entendi direito a segund apergunta. Mas se acredito que se refira ao diagram feito for ana. POrque fica mais organizado e mais facil de vizualizar.
+
+	Ambas as alterações feitas nos 2 branches são adicionadas ao branch que está em checkout. Sendo assim possível acessar todos os commits de todos os branchs mesclados. Não entendi direito a segunda pergunta. Mas se acredito que se refere ao diagrama feito por ana. Porque fica mais organizado e mais fácil de visualizar.
 
 Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
-	Na mesclagem automatica ganhasse tempo e produtividade.
-	Na manual voce tem mais contole sobre como fazer a junção do código e maior capacidade de otimozação.
+	Na mesclagem automática ganhasse tempo e produtividade.
+	Na manual você tem mais controle sobre como fazer a junção do código e maior capacidade de otimização.
 
 Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
-	Assim eu posso controlar o que sera publicado no meu repositorio remoto. No caso de projetos públicos, cas não queira que algo ainda seja acesivel é uma boa ideia.
+	Assim eu posso controlar o que será publicado no meu repositório remoto. No caso de projetos públicos, caso não queira que algo ainda seja acessível é uma boa ideia.
+

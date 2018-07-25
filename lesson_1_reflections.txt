@@ -1,3 +1,4 @@
+	 	 	
 Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
 
 	Pois assim posso facilmente identificar o que foi alterado e encontrar onde o problema surgiu.
@@ -12,7 +13,7 @@ Na sua opinião, quais são os prós e contras de escolher manualmente quando cr
 		- Mais controle sobre o versionamento
 		- Vercionametos adequados e relevantes
 	CONTRA
-- Você pode esquecer de salvar seu documento em um ponto que seria adequado e/ou necessário.
+	- Você pode esquecer de salvar seu documento em um ponto que seria adequado e/ou necessário.
 	
 
 Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
@@ -32,3 +33,5 @@ De que modo o controle de versão pode dar a você mais segurança para fazer al
 Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
 	
 		Para gerenciar meus projetos e ter maior agilidade e produtividade.
+
+

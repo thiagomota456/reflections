@@ -4,5 +4,4 @@ O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
 
 Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
 
-	A área de preparação contém os arquivos que serão comitados. Há area de trabalho conter os arquivos que serão comitados e os demais arquivos presentes no diretório. O Repositório conter todos os arquivos que foram comitados e estiveram em algum momento na área de preparação.
-
+	A área de preparação contém os arquivos que serão commitados. Há area de trabalho conter os arquivos que serão comentados e os demais arquivos presentes no diretório. O Repositório conter todos os arquivos que foram commitados e estiveram em algum momento na área de preparação.
