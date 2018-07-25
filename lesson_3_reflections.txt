@@ -14,6 +14,11 @@ Quais são os prós e contras da mesclagem automática do Git v. sempre fazer me
 	Na mesclagem automática ganhasse tempo e produtividade.
 	Na manual você tem mais controle sobre como fazer a junção do código e maior capacidade de otimização.
 
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+
+  Quando precisar fazer o trabalho em várias máquinas diferentes.
+
+
 Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
 	Assim eu posso controlar o que será publicado no meu repositório remoto. No caso de projetos públicos, caso não queira que algo ainda seja acessível é uma boa ideia.
 
