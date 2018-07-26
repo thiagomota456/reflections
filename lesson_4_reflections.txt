@@ -1,0 +1,15 @@
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+
+	Bifurcação(Fork):
+		- É a cópia de um repositório inteiro presente no GitHub na conta de outra pessoa para o seu repositório.
+		é possível rastrear de onde esse repositório foi copiado e propor mudanças mais facilmente.
+
+		- Usaria caso quisesse desenvolver um projeto paralelo baseado no projeto de alguem. Não usaria caso quisesse fazer modificações pequenas e paralelas para oṕrojeto original, (optaria pelo branch), e também não usaria caso eu fosse trabalhar no projeto original, (optaria pelo clone).
+
+	Clones:
+		- É a cópia de um repositório remoto para um ambiente local. (EX: Cópia da GitHub para o meu computador).
+
+		- Usaria no caso de querer trabalhar e contribuir para o projeto inicial. Não usaria caso a intenção fosse desenvolver um projeto alternativo baseado no repositório que criei. (Nesse caso usaria o Fork). Também não usaria sem o branch caso a ideia fosse desenvolver algo a partir do projeto inicial e depois implementar no projeto de origem, (usaria o clone e o branch).
+
+	Branches:
+		- E um projeto paralelo ao projeto inicial que compartilha commites e o mesmo repositório porém com funcionalidades exclusiva desta versão. Como o nome sugere é como galhos de uma árvore, a partir de determinado ponto eles se dividem e passam a ter diferenças. Não usaria caso a ideia fosse desenvolver um projeto alternativo que não tem a intenção de se incorporar no original(Usaria o fork).
