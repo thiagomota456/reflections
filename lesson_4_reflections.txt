@@ -13,3 +13,18 @@ Descreva as diferenças entre bifurcações, clones e branches. Quando você usa
 
 	Branches:
 		- E um projeto paralelo ao projeto inicial que compartilha commites e o mesmo repositório porém com funcionalidades exclusiva desta versão. Como o nome sugere é como galhos de uma árvore, a partir de determinado ponto eles se dividem e passam a ter diferenças. Não usaria caso a ideia fosse desenvolver um projeto alternativo que não tem a intenção de se incorporar no original(Usaria o fork).
+
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+
+	Assim voce pode sabe qual o commit anterior em casos de merge ou mesmo saber se existe um caminho entre 2 commits tal que os comiter mesclados levem ao mesmo ponto, optando assim pela fusão de anço rapido (Fast-Forward Merges).
+
+Como você colaboraria sem usar Git obranch separadobranch separadou GitHub? O que seria mais fácil e mais difícil?
+	
+	Há diversas maneiras. Talvez pudesse divulgar meus códigos em sites e blogs é receber fedbacks, códigos, correçoes e novas funcionalidades por email. Mas seria bem ruim e improdutivo.
+
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+	
+	Usaria um branch separado quando não fosse adequado que eu alteraçe o branch maste. Como por exemplo em projetos colabortivos e algumas situações de trabalho. A vantagem de  um branch seria que funcionalidades e mudanças que poderiam causar intalilides, bugs ou mesmo que não tivessesm ainda sido aprovadas pelo projeto poderiam ser adicionadas sem maiores reservas, podendo ser mesclada com o master so no momento adequado.
+	As vantagens de trabalhar direto no master seriam  mais simplicidade para o projeto, menos trabalho e mais autonomia para fazer mudanças.
+
